@@ -2,7 +2,7 @@
 	"name": "laravel",
 	"displayName": "AMIT Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Amit Chandrakar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "amitchandrakar",
 	"repository": {
 		"type": "git",
