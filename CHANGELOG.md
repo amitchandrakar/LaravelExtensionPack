@@ -3,6 +3,6 @@
 ## [1.0.0]
 
 - Initial release
-## [1.1.0]
+## [1.0.1]
 
-- Laravel Goto Config Extension change
+- 6 more exensions added
