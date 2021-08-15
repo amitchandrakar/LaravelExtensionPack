@@ -1,0 +1,58 @@
+{
+	"name": "laravel",
+	"displayName": "AMIT Laravel Extension Pack",
+	"description": "A collection of extensions for Laravel development by Amit Chandrakar",
+	"version": "1.1.0",
+	"publisher": "MrChetan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrchetan/LaravelExtensionPack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f66f62",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"laravel",
+		"blade",
+		"php",
+		"snippet"
+	],
+	"extensionPack": [
+		"adrianwilczynski.alpine-js-intellisense",
+		"calebporzio.better-phpunit",
+		"mikestead.dotenv",
+		"EditorConfig.EditorConfig",
+		"rifi2k.format-html-in-php",
+		"xabikos.JavaScriptSnippets",
+		"tiansin.vscode-laravel-assist",
+		"ryannaddy.laravel-artisan",
+		"amiralizadeh9480.laravel-extra-intellisense",
+		"shufo.vscode-blade-formatter",
+		"onecentlin.laravel-blade",
+		"lakuapik.livewire-goto",
+		"geyao.html-snippets",
+		"MrChetan.laravel-goto-config",
+		"ctf0.laravel-goto-env",
+		"codingyu.laravel-goto-view",
+		"mohamedbenhida.laravel-intellisense",
+		"stef-k.laravel-goto-controller",
+		"ahinkle.laravel-model-snippets",
+		"m7md3omer.laravel-relationship-snippets",
+		"onecentlin.laravel5-snippets",
+		"cierra.livewire-vscode",
+		"felixfbecker.php-debug",
+		"rexshi.phpdoc-comment-vscode-plugin",
+		"bmewburn.vscode-intelephense-client",
+		"MehediDracula.php-namespace-resolver",
+		"wongjn.php-sniffer",
+		"bradlc.vscode-tailwindcss"
+	]
+}
