@@ -2,11 +2,11 @@
 	"name": "laravel",
 	"displayName": "AMIT Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Amit Chandrakar",
-	"version": "1.1.0",
-	"publisher": "MrChetan",
+	"version": "1.0.0",
+	"publisher": "amitchandrakar",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mrchetan/LaravelExtensionPack"
+		"url": "https://github.com/amitchandrakar/LaravelExtensionPack"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
@@ -23,7 +23,8 @@
 		"laravel",
 		"blade",
 		"php",
-		"snippet"
+		"snippet",
+		"extensions"
 	],
 	"extensionPack": [
 		"adrianwilczynski.alpine-js-intellisense",

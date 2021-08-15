@@ -1,6 +1,6 @@
-## Laravel development Extension Pack by Mr Chetan
+## Laravel development Extension Pack by Amit Chandrakar
 
-A collection of extensions for Laravel development by Mr Chetan (Chetan Bhalothia).
+A collection of extensions for Laravel development.
 
 VS Code extension pack help to create a your Laravel app.
 
@@ -64,7 +64,7 @@ This extension pack includes the following extensions:
 
 * [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
     
-    * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
+    * [PHP Coding Standard](https://github.com/amitchandrakar/PHPStandards) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
 
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
@@ -83,11 +83,11 @@ This extension pack includes the following extensions:
 * [Read Livewire Documentation](https://laravel-livewire.com/docs/)
 * [Read Tailwindcss Documentation](https://tailwindcss.com/docs)
 * [Read Laravel Jetstream Documentation](https://jetstream.laravel.com/)
-* [Contact Mr Chetan](https://mrchetan.com/)
+* [Contact Amit](https://amitchandrakar.com/)
 ### Useful Commands
 
 * `composer global require laravel/installer` 
-* `laravel new <AppName>` Example : laravel new chetan
+* `laravel new <AppName>` Example : laravel new amit
 * `composer install` 
 * `npm install` 
 * `npm run dev` 
@@ -110,4 +110,4 @@ This extension pack includes the following extensions:
 * `php artisan vandor:publish`
 * `php artisan migrate:rollback`
 
-**Enjoy Chetan's Extension Pack!**
+**Enjoy Extension Pack!**
