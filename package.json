@@ -24,7 +24,12 @@
 		"blade",
 		"php",
 		"snippet",
-		"extensions"
+		"extensions",
+		"amit",
+		"amitchandrakar",
+		"amit laravel",
+		"amit laravel extension",
+		"laravel extension amit"
 	],
 	"extensionPack": [
 		"adrianwilczynski.alpine-js-intellisense",
@@ -54,6 +59,13 @@
 		"bmewburn.vscode-intelephense-client",
 		"MehediDracula.php-namespace-resolver",
 		"wongjn.php-sniffer",
-		"bradlc.vscode-tailwindcss"
+		"bradlc.vscode-tailwindcss",
+		"streetsidesoftware.code-spell-checker",
+		"sleistner.vscode-fileutils",
+		"eamodio.gitlens",
+		"donjayamanne.githistory",
+		"pkief.material-icon-theme",
+		"coenraads.bracket-pair-colorizer",
+		"pranaygp.vscode-css-peek"
 	]
 }

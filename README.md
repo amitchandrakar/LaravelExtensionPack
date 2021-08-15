@@ -4,7 +4,6 @@ A collection of extensions for Laravel development.
 
 VS Code extension pack help to create a your Laravel app.
 
-
 ## Included
 
 This extension pack includes the following extensions:
@@ -69,6 +68,20 @@ This extension pack includes the following extensions:
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
 
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
+
+* [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming, deleting files and directories.
+
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
+
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) - Material Design Icons for Visual Studio Code
+
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
+
+* [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+
 <br>
 
 ### Recommended Software for Laravel development
@@ -91,7 +104,7 @@ This extension pack includes the following extensions:
 * `composer install` 
 * `npm install` 
 * `npm run dev` 
-* `npm run wathc` 
+* `npm run watch` 
 * `npm run production` 
 * `php artisan storage:link` 
 * `php artisan key:generate` 
@@ -107,7 +120,7 @@ This extension pack includes the following extensions:
 * `laravel new v8 --jet --stack livewire --teams`
 * `php artisan down`
 * `php artisan up`
-* `php artisan vandor:publish`
+* `php artisan vendor:publish`
 * `php artisan migrate:rollback`
 
 **Enjoy Extension Pack!**
